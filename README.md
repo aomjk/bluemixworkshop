@@ -3,6 +3,8 @@
 Before you start workshop
 <p>
 1. Go to register bluemix account from www.bluemix.net. <br>
+or https://ibm.onthehub.com/WebStore/OfferingDetails.aspx?o=b46379bb-0463-e611-9420-b8ca3a5db7a1&cm_mc_uid=&cm_mc_sid_50200000=1498047689
+<p>
 2. Bluemix will send confirmed email to your email account. **Do not click confirm button, Please close all your browser and reopen again <br>
 3. Click "confirm account" button from your email.<br>
 4. Login to Bluemix account and choose "uk" region and choose org name as your email account and choose "dev" for space.
